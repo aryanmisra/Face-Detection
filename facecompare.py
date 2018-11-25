@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 12 20:49:56 2017
-
-@author: Daniel
-"""
 
 import boto3
 import cv2
