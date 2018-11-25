@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 15 20:11:23 2017
 
-@author: Daniel
-"""
 import boto3
 import botocore
 
